@@ -25,8 +25,6 @@ F\* is the fraction of hippocampal grey-matter voxels that touch CSF. It remaine
 ```
 .
 ├── README.md
-├── LICENSE
-├── CITATION.cff
 ├── requirements.txt
 ├── run_all.py                      runs the cells in order in one shared namespace
 └── src/
@@ -111,11 +109,3 @@ Outputs go to `OUT` (and Drive): per-cell result tables, out-of-fold scores (`un
 ## Software used
 
 Python 3.13, NumPy 2.1.3, pandas 2.3.3, SciPy 1.16.3, scikit-learn 1.6.1, PyTorch 2.11.0, nibabel 5.4.2, nilearn 0.14.1, Matplotlib 3.10.0.
-
-## Citation
-
-See `CITATION.cff`.
-
-## License
-
-MIT (see `LICENSE`). OASIS-1 data remain under the OASIS data use agreement.
