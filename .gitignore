@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+oasis_brainage/
+*.npz
+*.pt
+.DS_Store
